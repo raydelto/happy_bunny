@@ -15,8 +15,7 @@ int APIENTRY _tWinMain(HINSTANCE hInstance,
     // create the application instance
     AppDelegate app;
     CCEGLView* eglView = CCEGLView::sharedOpenGLView();
-    eglView->setViewName("AndroidT2");
-//    eglView->setFrameSize(480, 800);
-	eglView->setFrameSize(240, 320);
+    eglView->setViewName("Happy Bunny");
+    eglView->setFrameSize(480, 800);	
     return CCApplication::sharedApplication()->run();
 }
