@@ -1,0 +1,7 @@
+proj.android/bin
+proj.android/libs
+proj.android/obj
+proj.android/gen
+proj.win32/AndroidT2.sdf
+proj.win32/AndroidT2.v11.suo
+proj.win32/Debug.win32
